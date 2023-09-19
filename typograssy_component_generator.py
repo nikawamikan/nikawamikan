@@ -76,5 +76,5 @@ typograssy = Typograssy(
         accent="1cc9c4",
         speed=100,
     )
-
-print(typograssy.url)
+result = f"[![typograssy]({typograssy.url})](https://github.com/kawarimidoll/typograssy)"
+print(result)
