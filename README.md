@@ -1,7 +1,13 @@
+![img](ncanlab_logo_ver0.0.1.svg)
+
+は架空のLABです。
+
 # nikawamikan
 
 は限界SESをしている社会不適合者です。  
 特に面白いものは書いてないです、趣味です殆んど。  
+
+
 
 ## 面白いAPIたち
 ### imgix  
